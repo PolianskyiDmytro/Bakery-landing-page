@@ -1,6 +1,6 @@
 # 🧁 Bakery Landing Page
 
-A visually engaging and fully responsive landing page for a bakery business, designed to deliver a smooth user experience.
+A fully responsive landing page for a bakery business, designed to deliver a smooth user experience.
 
 This project demonstrates the ability to build pixel-perfect interfaces and implement responsive layouts with modern frontend practices.
 
