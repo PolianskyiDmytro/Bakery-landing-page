@@ -5,22 +5,22 @@ A visually engaging and fully responsive landing page for a bakery business, des
 This project demonstrates the ability to build pixel-perfect interfaces and implement responsive layouts with modern frontend practices.
 
 ## 🚀 Features
--Fully responsive landing page
--Pixel-perfect implementation from design mockup
--Clear visual hierarchy and typography
--Semantic and accessible HTML structure
--Scalable styling with BEM methodology
--Organized and maintainable SCSS
+- Fully responsive landing page
+- Pixel-perfect implementation from design mockup
+- Clear visual hierarchy and typography
+- Semantic and accessible HTML structure
+- Scalable styling with BEM methodology
+- Organized and maintainable SCSS
 ## 🛠️ Tech Stack
--HTML5
--SCSS (Sass)
--BEM methodology
--npm
+- HTML5
+- SCSS (Sass)
+- BEM methodology
+- npm
 ## 🎯 Key Highlights
--Strong attention to UI details and spacing
--Focus on responsive behavior and adaptability
--Clean and readable code structure
--Practical implementation of real-world landing page layout
+- Strong attention to UI details and spacing
+- Focus on responsive behavior and adaptability
+- Clean and readable code structure
+- Practical implementation of real-world landing page layout
 ## 🌐 Live Demo
 
 View Project
