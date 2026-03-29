@@ -23,7 +23,7 @@ This project demonstrates the ability to build pixel-perfect interfaces and impl
 - Practical implementation of real-world landing page layout
 ## 🌐 Live Demo
 
-View Project
+[View Project](https://polianskyidmytro.github.io/Bakery-landing-page/)
 
 ## 🚀 Getting Started
 ### 📥 Clone the repository
