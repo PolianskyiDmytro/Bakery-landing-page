@@ -34,3 +34,5 @@ cd Bakery-landing-page
 npm install
 # or
 yarn install
+### ▶️ Run the project
+npm start
